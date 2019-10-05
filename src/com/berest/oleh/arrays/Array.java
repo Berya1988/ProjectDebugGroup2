@@ -45,11 +45,7 @@ public class Array {
         return max;
     }
 
-    @Override
-    public String toString() {
-        return "Array{" +
-                "array=" + Arrays.toString(array) +
-                ", max=" + max +
-                '}';
-    }
+
+    
+    void f(){}
 }
